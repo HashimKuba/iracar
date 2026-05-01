@@ -15,6 +15,13 @@ const cars = [
         image: "images/kia.png" 
     },
     {
+        id: 11,
+        name: "Suzuki Swift",
+        type: "Hatchback",
+        price: 60,
+        image: "images/swift.png" 
+    },
+    {
         id: 2,
         name: "Honda Accord Hybrid",
         type: "Hybrid Sedan",
