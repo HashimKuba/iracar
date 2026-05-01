@@ -1,5 +1,12 @@
 // 1. DATABASE (The editable part)
 const cars = [
+     {
+        id: 10,
+        name: "BYD Seal 05",
+        type: "Classy",
+        price: 125,
+        image: "images/seal05.png"
+    },
     {
         id: 1,
         name: "Kia Cerato",
@@ -64,13 +71,6 @@ const cars = [
         price: 335,
         image: "images/tahoe.png"
         
-    },
-    {
-        id: 10,
-        name: "BYD Seal 05",
-        type: "Classy",
-        price: 125,
-        image: "images/seal05.png"
     }
     
 ];
